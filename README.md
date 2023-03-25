@@ -1,16 +1,19 @@
-### Hi there 👋
+hobbyist programmer
 
-<!--
-**Redninja106/Redninja106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a fan of computer graphics, compilers, games & game engines
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my projects:
+- [SimulationFramework (My coolest one, please check it out)](https://github.com/Redninja106/simulationframework)
+- [BridgeSharp (llvm-inspired il lang)](https://github.com/Redninja106/BridgeSharp)
+- [ClothSim](https://github.com/Redninja106/ClothSim)
+- [Raytracer](https://github.com/Redninja106/Raytracer)
+- [Trader (simulates stock & option trading)](https://github.com/Redninja106/trader)
+- [ConsoleApp17 (game engine+demos)](https://github.com/Redninja106/ConsoleApp17)
+- [Uno (networked uno game)](https://github.com/michaelcanudas/Uno)
+  
+Old Projects:
+- [Commander](https://github.com/Redninja106/Commander)
+- [SpaceLib](https://github.com/Redninja106/SpaceLib)
+- [Singe (may revive this one day)](https://github.com/Redninja106/SingeEngine)
+- [Singe3 (i'm unsure if Singe2 exists)](https://github.com/Redninja106/Singe3)
+- [Singe4](https://github.com/Redninja106/Singe4)
