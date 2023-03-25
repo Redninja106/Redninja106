@@ -1,6 +1,6 @@
 hobbyist programmer
 
-a fan of computer graphics, compilers, games & game engines
+a fan of computer graphics, compilers, game engines
 
 Some of my projects:
 - [SimulationFramework (My coolest one, please check it out)](https://github.com/Redninja106/simulationframework)
