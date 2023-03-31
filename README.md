@@ -4,7 +4,7 @@ a fan of computer graphics, compilers, game engines
 
 Some of my projects:
 - [SimulationFramework (My coolest one, please check it out)](https://github.com/Redninja106/simulationframework)
-- [BridgeSharp (llvm-inspired itermediate lang)](https://github.com/Redninja106/BridgeSharp)
+- [BridgeSharp (llvm-inspired intermediate lang)](https://github.com/Redninja106/BridgeSharp)
 - [ClothSim](https://github.com/Redninja106/ClothSim)
 - [Raytracer](https://github.com/Redninja106/Raytracer)
 - [Trader (simulates stock & option trading)](https://github.com/Redninja106/trader)
