@@ -10,7 +10,7 @@ Some of my projects:
 - [Trader (simulates stock & option trading)](https://github.com/Redninja106/trader)
 - [ConsoleApp17 (game engine+demos)](https://github.com/Redninja106/ConsoleApp17)
 - [Uno (networked uno game)](https://github.com/michaelcanudas/Uno)
-  
+- [opengl experiments](https://github.com/Redninja106/openglexperiments)
 Old Projects:
 - [Commander](https://github.com/Redninja106/Commander)
 - [SpaceLib](https://github.com/Redninja106/SpaceLib)
