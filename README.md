@@ -4,6 +4,7 @@ a fan of computer graphics, compilers, game engines
 
 Some of my projects:
 - [SimulationFramework (My coolest one, please check it out)](https://github.com/Redninja106/simulationframework)
+- [BlockGFX](https://github.com/Redninja106/BlockGFX)
 - [BridgeSharp (llvm-inspired intermediate lang)](https://github.com/Redninja106/BridgeSharp)
 - [ClothSim](https://github.com/Redninja106/ClothSim)
 - [Raytracer](https://github.com/Redninja106/Raytracer)
