@@ -1,6 +1,4 @@
-hobbyist programmer
-
-i like computer graphics, compilers, game engines, and any other kind of programming
+I like computer graphics, compilers, game engines, and any other kind of programming
 
 Some of my projects:
 - [SimulationFramework (My coolest one, please check it out)](https://github.com/Redninja106/simulationframework)
