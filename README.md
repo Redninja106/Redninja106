@@ -1,15 +1,19 @@
-I like computer graphics, compilers, game engines, and any other kind of programming
+I like computer graphics, compilers, game engines, and every other kind of programming
 
 Some of my projects:
-- [SimulationFramework (My coolest one, please check it out)](https://github.com/Redninja106/simulationframework)
-- [BlockGFX (experiments with voxel raytracing)](https://github.com/Redninja106/BlockGFX)
-- [SpaceRTS (a multiplayer, data-driven RTS game)](https://github.com/Redninja106/SpaceRTS)
-- [opengl experiments (an simple opengl renderer)](https://github.com/Redninja106/openglexperiments)
-
-- [ConsoleApp17 (an unnamed game engine+demos)](https://github.com/Redninja106/ConsoleApp17)
-- [ClothSim (A little verlet integration cloth simulator)](https://github.com/Redninja106/ClothSim)
-- [Raytracer (A GPU-accelerated raytracer)](https://github.com/Redninja106/Raytracer)
-
-- [K (Programming Language, from scratch in C)](https://github.com/Redninja106/k-lang)
-- [GoClone (A go-like programming language)](https://github.com/Redninja106/GoClone)
-- [BridgeSharp (llvm-inspired intermediate lang)](https://github.com/Redninja106/BridgeSharp)
+#### Graphics:
+- [BlockGame](https://github.com/Redninja106/BlockGame42) (experiments with voxel raytracing, global illumination & spatial hashing) 
+- [BlockGFX](https://github.com/Redninja106/BlockGFX) (older experiments with voxel raytracing, superseded by blockgame)
+- [opengl experiments](https://github.com/Redninja106/openglexperiments) (a simple opengl renderer)
+- [Raytracer](https://github.com/Redninja106/Raytracer) (A GPU-accelerated raytracer)
+#### Games:
+- [SimulationFramework](https://github.com/Redninja106/simulationframework)  (My coolest one, please check it out)
+- [SpaceRTS](https://github.com/Redninja106/SpaceRTS) (a multiplayer, data-driven RTS game)
+- [ConsoleApp17](https://github.com/Redninja106/ConsoleApp17) (an unnamed game engine+demos)
+- [Torch](https://github.com/Redninja106/GMTK23) (My entry to the GMTK game jam 2023) 
+- [ClothSim](https://github.com/Redninja106/ClothSim) (A little verlet integration cloth simulator)
+#### Programming Languages:
+- [GoClone](https://github.com/Redninja106/GoClone) (A go-like programming language)
+- [SimulationFramework experimental branch](https://github.com/Redninja106/simulationframework/tree/0.2.0) (C# CIL -> GLSL compiler)
+- [K](https://github.com/Redninja106/k-lang) (Programming Language, from scratch in C)
+- [BridgeSharp](https://github.com/Redninja106/BridgeSharp) (llvm-inspired intermediate lang)
