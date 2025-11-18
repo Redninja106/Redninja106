@@ -4,7 +4,7 @@ Some of my projects:
 #### Graphics:
 - [BlockGame](https://github.com/Redninja106/BlockGame42) (experiments with voxel raytracing, global illumination & spatial hashing) 
 - [BlockGFX](https://github.com/Redninja106/BlockGFX) (older experiments with voxel raytracing, superseded by blockgame)
-- [opengl experiments](https://github.com/Redninja106/openglexperiments) (a simple opengl renderer)
+- [Opengl Experiments](https://github.com/Redninja106/openglexperiments) (a simple opengl renderer)
 - [Raytracer](https://github.com/Redninja106/Raytracer) (A GPU-accelerated raytracer)
 #### Games:
 - [SimulationFramework](https://github.com/Redninja106/simulationframework)  (My coolest one, please check it out)
